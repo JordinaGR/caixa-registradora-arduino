@@ -8,7 +8,7 @@
 
 /*
    possibilitats dels registres:
-   Com que la pantalla només es de 20x4, ho he d'avrebiar així
+   Com que la pantalla només es de 20x4, ho he d'abreviar així
    iniciar sessio -->  iniSes
    tancar sessio --> tncSes
    entrar estoc --> estocD  (estoc fora)
